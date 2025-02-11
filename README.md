@@ -8,6 +8,6 @@
 - 📫 Reach me at:(mailto:atharvp0618@email.com)
 
 ## 🛠 Tech Stack
-- **Languages:** JavaScript, Java, C++, SQL
-- **Frameworks:** React, Bootstrap, Angular
-- **Databases:** MySQL, SQLite
+- **Languages:** JavaScript, Java, SQL
+- **Frameworks:** React, Bootstrap
+- **Databases:** MySQL
