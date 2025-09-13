@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Atharv!  
 
 ## 🚀 About Me  
-- 🎓 Computer Engineering Student (3rd Year)  
+- 🎓 Computer Engineering Student (last Year)  
 - 🔭 Currently working on a **Real-time Collaboration Tool**  
 - 🌱 Learning **React, Next.js, and SQL** to strengthen my full-stack skills  
 - 📫 Reach me at: [atharvp0618@email.com](mailto:atharvp0618@email.com)  
