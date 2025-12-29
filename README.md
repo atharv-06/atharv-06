@@ -1,59 +1,56 @@
-# Hi, I’m Atharv Lokhande 👋
+# 👋 Hi, I'm Atharv Lokhande  
 
-I’m a final-year Computer Engineering student who likes building web applications and learning how things work both on the frontend and backend.
-
----
-
-## About Me
-
-- Final-year Computer Engineering student  
-- Currently working on a real-time collaboration tool  
-- Learning React, Next.js, SQL, **Core Java**, and **Spring Boot**  
-- Interested in full-stack development and backend systems  
-- Email: atharvp0618@email.com  
-- GitHub: https://github.com/atharv-06  
+🎓 Final-Year Computer Engineering Student  
+💻 Interested in Full-Stack Web Development  
+🚀 Building and learning through real-world web applications  
 
 ---
 
-## Skills
+## 🚀 About Me  
 
-**Languages**
-- HTML, CSS, JavaScript  
-- Java (Core Java)  
-- SQL  
-
-**Frameworks / Libraries**
-- React  
-- Bootstrap  
-- Spring Boot (learning)
-
-**Database**
-- MySQL  
-
-**Other**
-- PHP  
-- Git & GitHub  
-- Responsive web design  
-- REST API basics  
+- 🎓 Final-year Computer Engineering student  
+- 🔧 Currently working on a real-time collaboration tool  
+- 🌱 Learning React, Next.js, SQL, **Core Java**, and **Spring Boot**  
+- 💻 Interested in full-stack development and backend systems  
+- 📧 Email: atharvp0618@email.com  
+- 🐙 GitHub: https://github.com/atharv-06  
 
 ---
 
-## What I’m Learning Right Now
+## 🛠️ Tech Stack  
 
-- Core Java concepts and OOP  
-- Building REST APIs with Spring Boot  
-- React fundamentals and component structure  
-- Writing better SQL queries  
+### Languages  
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
+![SQL](https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge)
+
+### Frameworks & Libraries  
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-green?style=for-the-badge&logo=springboot)
+
+### Databases & Tools  
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![PHP](https://img.shields.io/badge/PHP-indigo?style=for-the-badge&logo=php)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 
 ---
 
-## Interests
+## 🌍 Interests  
 
-- Full-stack web development  
-- Backend development  
+- Full-Stack Web Development  
+- Backend Development with Java & Spring Boot  
 - Databases and APIs  
 - Learning by building projects  
 
 ---
 
-Thanks for visiting my profile 🙂
+## 🤝 Let’s Connect  
+
+📧 **Email:** atharvp0618@email.com  
+🌐 **GitHub:** [atharv-06](https://github.com/atharv-06)  
+
+⭐ Thanks for visiting my profile!
