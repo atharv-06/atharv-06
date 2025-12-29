@@ -1,87 +1,59 @@
-# 👋 Hi, I'm Atharv Lokhande  
+# Hi, I’m Atharv Lokhande 👋
 
-🎓 Final-Year Computer Engineering Student  
-💻 Full-Stack Web Development Enthusiast  
-🚀 Building real-world, scalable web applications  
+I’m a final-year Computer Engineering student who likes building web applications and learning how things work both on the frontend and backend.
 
 ---
 
-## 🚀 About Me  
+## About Me
 
-- 🔭 Currently working on a **Real-Time Collaboration Tool**
-- 🌱 Learning **React, Next.js, and SQL** to strengthen full-stack skills
-- 💡 Interested in clean code, scalable systems, and practical problem-solving
-- 📫 Reach me at: **atharvp0618@email.com**
-- 🌐 GitHub: [https://github.com/atharv-06](https://github.com/atharv-06)
-
----
-
-## 🛠️ Tech Stack  
-
-### Languages  
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
-![SQL](https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge)
-
-### Frameworks & Libraries  
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
-
-### Databases & Tools  
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![PHP](https://img.shields.io/badge/PHP-indigo?style=for-the-badge&logo=php)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+- Final-year Computer Engineering student  
+- Currently working on a real-time collaboration tool  
+- Learning React, Next.js, SQL, **Core Java**, and **Spring Boot**  
+- Interested in full-stack development and backend systems  
+- Email: atharvp0618@email.com  
+- GitHub: https://github.com/atharv-06  
 
 ---
 
-## 🌟 Featured Projects  
+## Skills
 
-### 📌 Real-Time Chat Application  
-- JavaScript-based real-time messaging application  
-- Focused on responsiveness and real-time updates  
+**Languages**
+- HTML, CSS, JavaScript  
+- Java (Core Java)  
+- SQL  
 
-### 📌 Weather Application  
-- Built using **JavaScript + Weather API**
-- Displays real-time weather data with clean UI  
+**Frameworks / Libraries**
+- React  
+- Bootstrap  
+- Spring Boot (learning)
 
-### 📌 Online Notes Sharing Platform  
-- Developed using **PHP & MySQL**
-- User authentication, CRUD operations, responsive design  
+**Database**
+- MySQL  
 
-### 📌 Personal Portfolio Website  
-- Built using **HTML, CSS, JavaScript**
-- Fully responsive and clean layout  
-
----
-
-## 📊 GitHub Stats  
-
-![Atharv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atharv-06&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atharv-06&layout=compact&theme=tokyonight)
+**Other**
+- PHP  
+- Git & GitHub  
+- Responsive web design  
+- REST API basics  
 
 ---
 
-## 🔥 GitHub Streak  
+## What I’m Learning Right Now
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=atharv-06&theme=tokyonight)
-
----
-
-## 🌍 Interests  
-
-- Full-Stack Web Development  
-- Database Design & Optimization  
-- Scalable Applications  
-- Continuous Learning  
+- Core Java concepts and OOP  
+- Building REST APIs with Spring Boot  
+- React fundamentals and component structure  
+- Writing better SQL queries  
 
 ---
 
-## 🤝 Let’s Connect  
+## Interests
 
-📧 **Email:** atharvp0618@email.com  
-🌐 **GitHub:** [atharv-06](https://github.com/atharv-06)  
+- Full-stack web development  
+- Backend development  
+- Databases and APIs  
+- Learning by building projects  
 
-⭐ Thanks for visiting my profile!
+---
+
+Thanks for visiting my profile 🙂
