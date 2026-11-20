@@ -63,16 +63,6 @@ const atharv = {
 
 ---
 
-## 📈 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atharv-06&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atharv-06&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=atharv-06&theme=tokyonight&hide_border=true)
-
----
-
 ## 🎯 What I'm Focusing On
 
 - Writing clean and maintainable code
@@ -85,9 +75,10 @@ const atharv = {
 
 ## 🌐 Find Me Online
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atharv-06)
+### 🤝 Let's Connect
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atharvp0618@email.com)
+[![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/atharv-06)
+[![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:atharvp0618@email.com)
 
 ---
 
